@@ -1,0 +1,53 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "a title",
+      "views": 100
+    },
+    {
+      "id": "2",
+      "title": "another title",
+      "views": 200
+    }
+  ],
+  "comments": [
+    {
+      "id": "1",
+      "text": "a comment about post 1",
+      "postId": "1"
+    },
+    {
+      "id": "2",
+      "text": "another comment about post 1",
+      "postId": "1"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "RegisteredUsers": [
+    {
+      "id": "User1755196900749",
+      "name": "Nada Ashraf",
+      "email": "7@7",
+      "password": "777777",
+      "confirmPassword": "777777",
+      "userType": "Client",
+      "termsCheck": true,
+      "Img": "https://tse2.mm.bing.net/th/id/OIP.2ej5vtEM6M6j38xTd9jzFAHaE7?r=0&cb=thfvnext&rs=1&pid=ImgDetMain&o=7&rm=3",
+      "Location": "Egypt",
+      "Glance": {
+        "rating": "789",
+        "Jobs": "44",
+        "Hired": "4554"
+      },
+      "Title": "ENG",
+      "AboutCompany": "ITI",
+      "employees": "125",
+      "founded": "789",
+      "website": "7874/ui",
+      "savedUsers": []
+    }
+  ]
+}
