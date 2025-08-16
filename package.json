@@ -8,7 +8,7 @@
     "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview",
-    "start" : "node server.js"
+    "start" : "json-server db.json --host 0.0.0.0 --port 3000"
   },
   "dependencies": {
     "@mui/utils": "^7.3.1",
